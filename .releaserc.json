@@ -42,7 +42,7 @@
       "channel": "hotfix"
     },
     {
-      "name": "feature-.*",
+      "name": "feature-**",
       "prerelease": true
     }
   ]
