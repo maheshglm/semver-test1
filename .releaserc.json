@@ -44,6 +44,10 @@
     {
       "name": "feature/**",
       "prerelease": "${name.replace('\/', '-')"
+    },
+    {
+      "name": "feature-*",
+      "prerelease": true
     }
   ]
 }
